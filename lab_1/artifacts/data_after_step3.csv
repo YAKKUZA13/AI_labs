@@ -1,0 +1,501 @@
+customer_id,age,gender,region,tenure_months,monthly_charges,num_services,support_calls,satisfaction_score,contract_type,payment_method,churn
+1001,41.7,Male,South,14.0,76.92,9.0,3.0,4.1,Month,Transfer,0
+1002,25.5,Female,East,22.0,79.02,3.0,5.0,3.5,One year,Cash,0
+1003,47.0,Male,East,42.0,104.94,8.0,1.0,4.5,Month,Cash,0
+1004,49.3,Female,North,10.0,20.47,3.0,8.0,3.6,One year,Card,0
+1005,18.0,Male,North,15.0,105.34,7.0,7.0,3.1,Two year,Transfer,1
+1006,230.0,Male,East,36.0,81.91,5.0,7.0,3.9,Two year,Transfer,0
+1007,42.56672059317285,Male,North,40.0,36.27,4.0,1.0,2.8,One year,Cash,1
+1008,34.2,Female,North,8.0,97.29,1.0,7.0,2.4,Two year,Transfer,1
+1009,37.8,Female,South,30.0,105.55,6.0,8.0,2.9,One year,Cash,0
+1010,27.8,Male,North,31.0,45.43,3.0,1.0,1.7,Two year,Transfer,1
+1011,48.6,Female,South,30.0,111.88,99.0,7.0,4.2,Month,Cash,1
+1012,47.3,Female,South,57.0,65.45,1.0,3.0,2.0,One year,Card,1
+1013,38.8,Female,West,5.0,80.34,9.0,7.0,1.6,One year,Cash,1
+1014,51.5,Female,North,59.0,118.46,1.0,4.0,2.0,One year,Card,1
+1015,43.6,Male,North,27.0,56.15,7.0,8.0,4.4,Month,Transfer,1
+1016,27.7,Male,East,46.0,-15.0,8.0,4.0,2.3,Month,Cash,0
+1017,42.4,Female,East,26.0,51.84,0.0,3.0,3.7,Two year,Cash,0
+1018,26.5,Male,South,19.0,99.92,5.0,2.0,4.4,Month,Transfer,1
+1019,48.5,Male,South,46.0,80.07,5.0,2.0,1.3,One year,Transfer,1
+1020,37.4,Male,West,41.0,41.64,3.0,3.0,2.5771921379740066,One year,Card,0
+1021,35.8,Female,South,9.0,-22.5,6.0,3.0,2.2,One year,Cash,1
+1022,29.8,Male,North,42.0,51.76,4.0,1.0,1.9,Month,Card,1
+1023,52.7,Male,South,45.0,27.81,4.0,7.0,3.8,Month,Card,0
+1024,36.1,Female,South,23.0,22.98,4.0,5.0,4.6,Month,Transfer,1
+1025,32.9,Male,South,55.0,54.65,8.0,8.0,2.2,Month,Card,1
+1026,195.0,Male,North,38.0,21.9,6.0,7.0,3.3,Month,Card,0
+1027,44.4,Male,North,20.0,36.55,3.0,1.0,2.2,Month,Transfer,1
+1028,42.4,Male,West,1.0,92.52,9.0,0.0,3.2,Month,Cash,1
+1029,43.0,Female,North,40.0,90.81,8.0,4.0,3.5,Two year,Card,0
+1030,43.2,Female,East,13.0,93.86,9.0,4.0,3.4,One year,Cash,0
+1031,63.7,Male,East,45.0,51.72,7.0,2.0,12.0,Month,Transfer,0
+1032,33.1,Female,East,31.0,109.0,3.0,7.0,1.5,One year,Card,1
+1033,31.9,Female,West,28.0,79.38,7.0,5.0,3.8,Month,Cash,0
+1034,28.2,Female,North,10.0,32.6,3.0,7.0,3.7,One year,Transfer,1
+1035,45.4,Female,South,42.0,34.37,2.0,1.0,3.7,Month,Transfer,0
+1036,51.5,Female,North,10.0,89.31,4.0,8.0,1.3,Month,Card,1
+1037,36.6,Male,East,25.0,37.29,9.0,2.0,2.8,Month,Transfer,1
+1038,31.680199717456166,Male,East,50.0,70.73,5.0,4.0,2.6,One year,Card,0
+1039,28.1,Female,West,55.0,119.18,3.0,5.0,1.3,One year,Transfer,0
+1040,45.8,Female,East,59.0,20.4,4.0,8.0,1.9,One year,Cash,0
+1041,46.32861533423351,Female,North,57.0,21.66,2.0,2.0,2.8,One year,Cash,1
+1042,44.5,Male,West,33.0,119.31,6.0,2.0,4.0,Two year,Transfer,0
+1043,30.0,Male,East,12.0,78.46,3.0,3.0,2.6483328491187126,Two year,Transfer,1
+1044,40.8,Female,West,50.0,32.69,5.0,3.0,4.3,One year,Cash,0
+1045,39.4,Male,South,48.0,109.73,3.0,1.0,3.2,One year,Transfer,1
+1046,40.6,Female,South,59.0,108.04,3.0,1.0,4.0,One year,Card,0
+1047,48.5,Female,South,39.0,73.62,9.0,2.0,2.9,Month,Card,0
+1048,40.7,Female,East,9.0,82.18,3.0,4.0,3.0,One year,Card,1
+1049,46.1,Male,North,30.0,47.32,0.0,3.0,3.5,Month,Transfer,0
+1050,43.88299217941226,Female,West,27.0,25.05,3.0,3.0,4.7,Two year,Transfer,1
+1051,41.5,Female,North,50.0,79.46,5.0,7.0,3.0,One year,Transfer,1
+1052,45.6,Female,South,24.0,49.48,0.0,2.0,3.1,Two year,Transfer,1
+1053,20.5,Female,South,20.0,86.36,3.0,5.0,3.4,Two year,Cash,1
+1054,34.2,Male,East,5.0,103.62,1.0,7.0,4.0,One year,Cash,1
+1055,32.4,Female,East,50.0,21.82,5.0,1.0,1.3,Two year,Card,0
+1056,30.3,Female,West,45.0,79.57,7.0,3.0,3.1,One year,Card,1
+1057,34.7,Female,West,3.0,43.13,9.0,1.0,2.9,Month,Card,1
+1058,55.9,Female,North,26.0,107.39,3.0,2.0,4.7,Month,Cash,0
+1059,27.6,Male,North,29.0,45.37,8.0,3.0,3.0,Month,Transfer,1
+1060,49.6,Female,West,28.0,81.08,2.0,1.0,2.9,Two year,Cash,1
+1061,18.0,Male,South,55.0,75.35,7.0,0.0,4.8,One year,Transfer,0
+1062,34.0,Male,North,9.0,59.62,5.0,4.0,2.8,Month,Transfer,1
+1063,40.0,Female,West,19.0,87.76,7.0,7.0,1.7,One year,Card,1
+1064,46.982019723231744,Male,East,11.0,92.58,7.0,3.0,1.9,Month,Transfer,1
+1065,46.5,Male,North,15.0,76.69,5.0,8.0,1.4,Two year,Card,1
+1066,47.5,Female,West,54.0,95.84,2.0,4.0,1.0,Two year,Transfer,0
+1067,33.8,Female,East,56.0,118.34,5.0,9.0,2.7,Month,Card,1
+1068,32.5,Male,East,3.0,61.93,8.0,2.0,4.1,Two year,Card,1
+1069,48.3,Male,West,38.0,71.46,9.0,5.0,3.9,One year,Card,1
+1070,35.7,Male,South,14.0,21.25,9.0,7.0,1.1,Month,Cash,1
+1071,22.7,Female,South,12.0,99.6,1.0,3.0,3.3,Two year,Cash,1
+1072,24.4,Male,East,25.0,72.02,5.0,9.0,1.6,Month,Transfer,1
+1073,27.0,Female,North,12.0,60.8,1.0,3.0,4.8,Month,Transfer,1
+1074,44.0,Female,North,29.0,29.41,6.0,4.0,1.7,Month,Cash,1
+1075,39.7,Female,West,59.0,108.97,9.0,6.0,3.5,One year,Transfer,1
+1076,46.3,Male,North,35.0,59.5,0.0,6.0,2.3,One year,Transfer,0
+1077,32.9,Female,East,43.0,88.26,6.0,0.0,3.6,Month,Transfer,0
+1078,39.9,Male,South,28.0,34.94,9.0,8.0,2.6,Month,Transfer,1
+1079,45.5,Male,North,1.0,116.15,8.0,6.0,4.0,Month,Transfer,1
+1080,34.3,Male,East,5.0,37.84,3.0,9.0,1.9,Two year,Cash,1
+1081,43.5,Male,West,16.0,39.95,1.0,4.0,4.6,Two year,Transfer,0
+1082,30.1,Female,South,15.0,105.9,9.0,6.0,3.0,Two year,Transfer,1
+1083,33.6,Male,North,50.0,111.26,9.0,4.0,4.0,One year,Card,0
+1084,33.4,Female,North,50.0,41.21,5.0,8.0,4.4,One year,Cash,0
+1085,23.6,Male,North,51.0,66.98,9.0,8.0,5.0,Two year,Cash,0
+1086,43.8,Male,West,38.0,93.35,0.0,9.0,1.9,One year,Card,1
+1087,32.4,Male,South,33.0,107.84,6.0,5.0,2.1,One year,Card,1
+1088,38.1,Male,South,39.0,57.91,0.0,7.0,2.0,Month,Cash,0
+1089,43.8,Male,North,25.0,71.7,9.0,3.0,2.1,One year,Card,1
+1090,43.4,Female,South,40.0,94.17,6.0,4.0,3.3,Month,Cash,0
+1091,46.0,Female,West,47.0,93.11,9.0,7.0,5.0,Month,Cash,1
+1092,36.8,Male,South,46.0,98.3,5.0,0.0,5.0,Two year,Cash,0
+1093,32.9,Female,East,37.0,76.99,0.0,7.0,3.1,Two year,Card,0
+1094,37.0,Female,North,4.0,30.46,0.0,0.0,3.6,Month,Transfer,1
+1095,18.0,Male,North,43.0,110.4,3.0,5.0,4.4,Month,Transfer,0
+1096,39.147684342015566,Male,East,22.0,106.56,7.0,4.0,4.7,Month,Cash,1
+1097,22.1,Male,North,44.0,99.81,1.0,4.0,1.8,Two year,Card,1
+1098,26.0,Female,South,32.0,29.99,8.0,4.0,3.1,Month,Card,1
+1099,42.8,Female,South,52.0,40.44,2.0,4.0,4.3,Month,Card,0
+1100,27.1,Male,North,20.0,94.36,4.0,4.0,2.2,Month,Cash,1
+1101,33.5,Female,East,55.0,22.31,2.0,4.0,2.8,Two year,Cash,1
+1102,53.6,Female,West,50.0,117.92,4.0,5.0,4.9,One year,Card,0
+1103,33.7,Female,North,32.0,57.71,4.0,7.0,4.9,Two year,Card,1
+1104,46.9,Male,West,29.0,91.93,0.0,5.0,4.6,Two year,Card,0
+1105,26.8,Female,East,32.0,108.76,5.0,6.0,4.2,Month,Cash,1
+1106,35.5,Female,East,46.0,59.46,7.0,5.0,2.1,Two year,Transfer,0
+1107,26.6,Female,North,41.0,51.91,9.0,9.0,2.3,One year,Card,1
+1108,33.9,Female,West,51.0,80.87,3.0,1.0,3.2,One year,Card,1
+1109,48.1,Female,North,22.0,78.1,8.0,7.0,3.2,Month,Transfer,0
+1110,33.03467778387911,Female,North,30.0,60.91,8.0,2.0,3.0,Two year,Transfer,0
+1111,37.623073884127386,Male,East,26.0,80.18,9.0,1.0,3.5,Two year,Card,1
+1112,40.9,Male,South,54.0,113.54,3.0,7.0,2.934928664431251,One year,Cash,1
+1113,30.9,Male,North,18.0,66.76,8.0,0.0,4.0,Month,Transfer,1
+1114,20.6,Male,East,35.0,39.67,5.0,8.0,2.3,Two year,Card,1
+1115,38.9,Female,North,8.0,57.72,0.0,7.0,2.3,Two year,Cash,1
+1116,31.6,Female,East,51.0,59.41,2.0,9.0,1.5,One year,Cash,0
+1117,40.8,Female,West,23.0,33.11,6.0,6.0,1.8,One year,Card,1
+1118,38.3,Female,South,21.0,36.29,1.0,8.0,4.4,Month,Transfer,0
+1119,57.2,Male,North,35.0,88.46,4.0,1.0,2.8,Month,Card,1
+1120,35.1,Male,North,30.0,53.95,7.0,8.0,1.9,Two year,Cash,1
+1121,25.7,Female,North,51.0,115.49,1.0,1.0,4.0,One year,Transfer,0
+1122,40.2,Male,North,32.0,44.36,4.0,3.0,3.2,Month,Cash,1
+1123,40.6,Female,North,31.0,29.89,2.0,1.0,1.1,Two year,Transfer,1
+1124,54.3,Male,East,7.0,95.35,5.0,4.0,2.3,Month,Transfer,1
+1125,48.0,Male,South,2.0,108.1,2.0,7.0,1.7,Month,Transfer,0
+1126,42.3,Female,West,24.0,47.81,9.0,2.0,3.6,Month,Cash,1
+1127,55.6,Female,West,59.0,40.21,0.0,8.0,2.1,One year,Transfer,1
+1128,23.7,Female,West,55.0,38.58,9.0,6.0,1.3,One year,Cash,1
+1129,30.3,Male,East,38.0,72.2,7.0,6.0,1.2,Month,Cash,1
+1130,26.9,Female,South,38.0,66.84,8.0,9.0,3.3,One year,Cash,0
+1131,33.3,Female,West,24.0,45.94,8.0,4.0,1.1,One year,Cash,1
+1132,21.5,Female,North,11.0,24.52,1.0,3.0,4.4,One year,Transfer,0
+1133,45.6,Male,South,1.0,68.15,9.0,9.0,1.6,One year,Card,1
+1134,35.3,Male,South,20.0,115.93,5.0,5.0,3.4,Two year,Transfer,0
+1135,20.4,Female,East,19.0,85.25,9.0,6.0,2.8,Two year,Cash,1
+1136,39.91580373748238,Male,East,12.0,69.55,8.0,5.0,2.8,Month,Cash,1
+1137,41.8,Female,West,16.0,31.07,5.0,2.0,1.3,Two year,Transfer,1
+1138,48.1,Male,West,2.0,45.24,3.0,1.0,4.2,One year,Card,1
+1139,62.0,Male,North,36.0,49.48,1.0,2.0,4.6,Month,Transfer,0
+1140,70.0,Female,West,55.0,96.48,1.0,1.0,3.1785973138108488,One year,Cash,1
+1141,43.0,Male,North,41.0,107.67,3.0,7.0,1.7,Two year,Card,0
+1142,26.1,Male,West,27.0,110.16,8.0,0.0,4.6,Two year,Card,0
+1143,18.0,Female,North,25.0,118.46,5.0,6.0,3.2,One year,Card,1
+1144,41.2,Male,West,19.0,118.24,4.0,9.0,1.6,Month,Cash,1
+1145,28.2,Female,South,9.0,115.3,2.0,7.0,1.8,Month,Transfer,1
+1146,33.0,Male,West,36.0,27.18,5.0,4.0,3.6,Month,Card,1
+1147,30.7,Female,North,34.0,33.78,6.0,0.0,3.9,Two year,Card,0
+1148,36.3,Male,South,1.0,50.45,9.0,8.0,3.4,One year,Card,1
+1149,50.8,Male,West,25.0,75.29,7.0,3.0,4.8,One year,Transfer,0
+1150,39.9,Female,North,17.0,29.7,6.0,6.0,3.0,Two year,Cash,1
+1151,36.1,Female,South,11.0,104.58,9.0,6.0,2.2,Two year,Transfer,1
+1152,25.6,Male,North,42.0,81.68,4.0,1.0,2.9,Two year,Cash,0
+1153,18.0,Female,South,32.0,74.24,9.0,7.0,2.4,Month,Cash,1
+1154,32.2,Male,South,38.0,36.53,3.0,1.0,1.9,One year,Cash,0
+1155,37.4,Male,East,43.0,45.33,1.0,2.0,1.2,Two year,Card,1
+1156,59.2,Female,South,58.0,36.03,4.0,8.0,2.4,Two year,Cash,1
+1157,39.6,Female,North,48.0,105.19,1.0,9.0,3.8,Month,Card,0
+1158,49.8,Male,North,37.0,78.42,1.0,2.0,1.1,One year,Transfer,1
+1159,32.0,Female,West,52.0,93.51,8.0,9.0,2.8,Two year,Cash,0
+1160,23.8,Male,West,29.0,49.6,7.0,9.0,3.6,Month,Card,0
+1161,26.4,Male,North,59.0,57.13,2.0,7.0,3.4,One year,Card,0
+1162,29.3,Male,North,45.0,60.49,8.0,1.0,4.1,Month,Card,0
+1163,63.5,Male,North,39.0,96.0,0.0,2.0,4.2,Two year,Card,0
+1164,28.1,Female,West,54.0,97.24,2.0,6.0,3.8,Month,Transfer,0
+1165,48.1,Male,East,31.0,40.68,7.0,9.0,1.4,Month,Cash,0
+1166,27.2,Male,West,43.0,114.15,3.0,8.0,2.9,Month,Card,0
+1167,31.97157942701837,Female,South,17.0,32.07,7.0,4.0,3.4,Month,Transfer,1
+1168,42.6,Female,East,57.0,109.61,8.0,2.0,2.0,One year,Cash,1
+1169,36.1,Male,North,37.0,30.04,0.0,9.0,1.2,Month,Cash,1
+1170,37.5,Female,North,47.0,46.45,0.0,2.0,1.9,One year,Card,0
+1171,33.56609574364428,Male,East,28.0,104.65,9.0,3.0,2.8,One year,Transfer,1
+1172,43.4,Female,South,52.0,37.95,5.0,9.0,2.7,One year,Cash,1
+1173,32.5,Female,East,5.0,61.36,5.0,5.0,1.7,Two year,Card,1
+1174,33.22626668612766,Male,East,7.0,64.99,4.0,2.0,4.3,One year,Card,1
+1175,22.7,Male,South,30.0,44.53,4.0,0.0,4.7,One year,Transfer,0
+1176,40.1,Female,North,44.0,91.02,6.0,4.0,1.8,Two year,Card,1
+1177,56.9,Male,North,48.0,105.13,5.0,9.0,4.7,Month,Card,0
+1178,39.9,Male,West,26.0,107.46,1.0,4.0,1.1,Two year,Card,1
+1179,36.6,Female,South,39.0,53.93,6.0,6.0,4.7,Two year,Transfer,0
+1180,41.4,Male,South,33.0,73.09,6.0,2.0,4.8,Month,Transfer,0
+1181,53.7,Female,East,57.0,44.84,1.0,7.0,1.0,Month,Transfer,1
+1182,40.6,Female,South,39.0,44.48,3.0,7.0,4.1,One year,Card,0
+1183,33.1,Male,South,25.0,36.13,7.0,6.0,4.9,Month,Transfer,0
+1184,51.3,Male,East,58.0,114.0,6.0,5.0,4.6,One year,Transfer,0
+1185,43.1,Female,East,7.0,108.8,1.0,5.0,4.9,Two year,Card,0
+1186,42.649113514517104,Male,East,59.0,97.74,0.0,3.0,3.2,One year,Cash,0
+1187,40.2,Male,North,10.0,71.77,5.0,7.0,1.3,Month,Cash,1
+1188,23.3,Male,South,18.0,69.06,4.0,6.0,4.4,Month,Transfer,1
+1189,21.6,Female,South,49.0,72.97,9.0,8.0,3.5,Two year,Transfer,0
+1190,57.8,Male,East,44.0,73.66,5.0,2.0,3.5,Month,Cash,0
+1191,58.7,Female,North,58.0,63.46,9.0,6.0,2.7,One year,Transfer,0
+1192,35.8,Male,North,45.0,33.18,2.0,0.0,3.3,Two year,Transfer,1
+1193,33.4,Female,West,38.0,32.57,4.0,5.0,1.6,Month,Transfer,1
+1194,55.5,Female,East,21.0,115.22,1.0,5.0,4.0,One year,Card,1
+1195,24.7,Male,West,1.0,68.2,5.0,3.0,1.3,One year,Cash,1
+1196,27.3,Female,South,8.0,115.32,1.0,9.0,3.9,Month,Card,0
+1197,45.7,Male,West,18.0,36.36,4.0,8.0,4.4,One year,Card,0
+1198,33.3,Male,South,3.0,75.44,3.0,0.0,2.9,One year,Cash,1
+1199,37.9,Female,East,30.0,40.77,1.0,2.0,3.0,Month,Transfer,1
+1200,36.0,Female,North,46.0,45.32,0.0,2.0,2.2,Two year,Transfer,1
+1201,42.1,Female,West,57.0,23.01,5.0,8.0,4.9,One year,Card,0
+1202,54.9,Male,South,29.0,31.9,9.0,5.0,3.9,Month,Card,0
+1203,39.551019720815844,Male,West,52.0,111.68,1.0,7.0,2.5,Two year,Cash,0
+1204,45.7,Male,South,16.0,52.15,4.0,8.0,1.7,Two year,Transfer,1
+1205,18.0,Male,West,51.0,80.81,2.0,7.0,1.9,Month,Card,1
+1206,37.4,Male,South,28.0,66.5,8.0,3.0,2.9,Month,Cash,1
+1207,27.9,Female,North,20.0,60.05,4.0,3.0,4.8,One year,Transfer,1
+1208,23.4,Male,North,58.0,73.19,9.0,3.0,3.9,One year,Cash,0
+1209,27.5,Female,East,15.0,38.72,2.0,3.0,1.9,Two year,Transfer,0
+1210,34.0,Male,North,25.0,118.86,0.0,7.0,4.4,One year,Transfer,0
+1211,49.0,Male,South,5.0,101.83,5.0,1.0,3.0641207067018428,One year,Cash,1
+1212,22.1,Male,East,47.0,94.16,6.0,3.0,4.4,Month,Cash,1
+1213,38.4,Male,South,39.0,66.88,9.0,2.0,2.0,One year,Card,1
+1214,32.2,Male,North,6.0,35.29,8.0,1.0,3.5,Two year,Cash,0
+1215,34.1,Male,East,14.0,112.07,8.0,1.0,4.7,One year,Cash,1
+1216,50.0,Female,East,33.0,54.14,6.0,1.0,2.0,One year,Transfer,1
+1217,44.5,Female,East,32.0,25.01,3.0,5.0,3.8,Month,Card,0
+1218,54.0,Male,West,48.0,54.24,4.0,4.0,4.9,Two year,Card,0
+1219,36.1,Male,North,16.0,99.45,1.0,4.0,1.6,Month,Card,1
+1220,33.809397833710506,Male,South,55.0,82.27,4.0,4.0,1.4,Month,Card,0
+1221,35.3,Male,North,27.0,95.08,3.0,7.0,3.7,Month,Cash,1
+1222,40.9,Male,West,49.0,99.36,0.0,8.0,2.4,Two year,Cash,1
+1223,40.1,Male,East,15.0,41.2,2.0,5.0,1.3,One year,Transfer,1
+1224,25.0,Female,North,3.0,112.38,5.0,6.0,2.9,Two year,Transfer,0
+1225,39.1,Male,East,4.0,63.8,3.0,7.0,4.0,One year,Cash,1
+1226,40.7,Male,North,22.0,83.9,9.0,6.0,2.1,One year,Transfer,1
+1227,68.2,Male,South,57.0,20.23,4.0,1.0,2.9637088454897347,One year,Transfer,1
+1228,60.5,Female,East,3.0,119.34,9.0,9.0,4.4,Month,Transfer,0
+1229,27.8,Male,East,22.0,48.09,6.0,1.0,3.1,One year,Card,1
+1230,34.6,Male,North,7.0,26.21,0.0,4.0,4.4,Two year,Card,1
+1231,41.8654290250903,Male,East,55.0,65.83,2.0,6.0,2.8,Two year,Transfer,0
+1232,30.9,Male,West,40.0,32.9,7.0,4.0,4.8,One year,Cash,0
+1233,41.8,Male,East,45.0,35.23,5.0,2.0,3.6,Two year,Card,0
+1234,52.5,Female,North,43.0,83.23,3.0,9.0,1.5,Two year,Card,1
+1235,29.3,Male,North,39.0,59.29,5.0,0.0,4.5,One year,Card,1
+1236,31.321487605096735,Male,West,46.0,112.19,9.0,2.0,3.0,One year,Cash,0
+1237,39.96932343193171,Female,North,1.0,51.92,3.0,9.0,1.6,Month,Transfer,1
+1238,36.0,Male,South,52.0,92.62,0.0,7.0,1.6,Month,Transfer,1
+1239,25.3,Male,North,44.0,66.11,3.0,0.0,3.8,Two year,Transfer,0
+1240,31.6,Male,South,44.0,86.0,9.0,7.0,1.2,Month,Card,1
+1241,27.5,Female,East,24.0,79.97,7.0,9.0,2.1,One year,Cash,1
+1242,36.9,Female,North,48.0,67.28,8.0,0.0,1.6,Two year,Card,1
+1243,18.0,Female,South,23.0,115.01,9.0,4.0,2.8,Month,Card,1
+1244,20.4,Female,West,3.0,54.27,1.0,4.0,2.7,Two year,Cash,1
+1245,63.6,Female,North,54.0,37.72,2.0,1.0,3.1,One year,Transfer,0
+1246,22.6,Female,North,14.0,87.81,0.0,2.0,2.1,Month,Card,1
+1247,24.8,Female,South,7.0,104.6,0.0,1.0,1.1,Month,Transfer,1
+1248,60.0,Female,West,37.0,24.03,8.0,1.0,3.5,Two year,Card,0
+1249,70.0,Female,South,14.0,64.96,9.0,4.0,2.5,Two year,Cash,1
+1250,23.9,Male,East,51.0,109.25,1.0,4.0,3.6,Two year,Card,1
+1251,33.6,Male,North,27.0,94.96,7.0,2.0,1.4,Two year,Card,1
+1252,42.1,Female,East,1.0,119.18,5.0,2.0,1.1,Month,Transfer,1
+1253,58.7,Male,North,57.0,73.14,0.0,1.0,2.0,Two year,Card,0
+1254,26.2,Male,East,31.0,86.0,9.0,7.0,2.8,Month,Transfer,0
+1255,35.1,Female,North,16.0,50.25,8.0,2.0,2.6,Month,Card,1
+1256,47.3,Female,West,40.0,114.75,5.0,9.0,4.2,Two year,Card,0
+1257,35.451783273304024,Female,South,32.0,56.63,7.0,5.0,2.5,One year,Cash,0
+1258,33.5,Male,North,2.0,93.85,3.0,8.0,3.1,One year,Cash,1
+1259,36.4,Male,South,45.0,60.31,7.0,6.0,3.4,Two year,Cash,0
+1260,21.5,Male,North,24.0,76.18,4.0,2.0,1.1,Month,Card,1
+1261,41.38516554464563,Male,North,42.0,91.98,9.0,6.0,3.1,One year,Cash,0
+1262,34.8,Female,East,53.0,70.89,0.0,2.0,2.4,Two year,Card,0
+1263,40.8,Male,South,37.0,110.71,1.0,1.0,2.7,One year,Cash,1
+1264,31.3,Male,South,40.0,61.93,9.0,2.0,1.4,One year,Card,0
+1265,43.7,Male,West,16.0,84.71,2.0,2.0,4.1,One year,Transfer,0
+1266,50.2,Female,North,15.0,54.24,3.0,1.0,4.8,Two year,Card,0
+1267,39.9,Male,South,25.0,60.82,7.0,3.0,1.1,Month,Cash,1
+1268,42.2,Male,North,51.0,64.01,1.0,4.0,3.4,Two year,Card,1
+1269,38.6,Female,South,31.0,32.58,5.0,5.0,4.1,Two year,Cash,0
+1270,38.0,Female,South,21.0,29.17,2.0,4.0,2.1,Two year,Card,1
+1271,29.3,Male,North,46.0,86.75,1.0,9.0,4.2,One year,Transfer,0
+1272,41.8,Female,North,51.0,85.55,9.0,2.0,3.5,One year,Card,0
+1273,36.8,Female,West,54.0,86.29,1.0,4.0,4.7,One year,Cash,0
+1274,63.1,Male,North,18.0,21.98,0.0,2.0,4.9,Month,Transfer,0
+1275,56.9,Male,West,42.0,52.65,6.0,6.0,1.2,Two year,Cash,1
+1276,42.6,Female,East,35.0,39.78,8.0,3.0,2.8,One year,Cash,0
+1277,28.8,Male,South,27.0,97.82,1.0,3.0,3.2,Two year,Transfer,1
+1278,24.7,Female,South,24.0,106.06,7.0,0.0,1.6,Month,Card,1
+1279,52.3,Female,West,7.0,44.67,5.0,0.0,2.3,Two year,Card,1
+1280,41.2,Female,West,17.0,86.78,8.0,1.0,5.0,One year,Card,0
+1281,43.8,Female,North,33.0,32.94,1.0,7.0,1.1,Two year,Cash,1
+1282,18.0,Male,East,53.0,47.52,9.0,6.0,2.8,Month,Cash,0
+1283,49.1,Female,West,52.0,33.87,6.0,4.0,4.4,One year,Transfer,0
+1284,43.5,Female,North,12.0,48.35,8.0,7.0,2.3,One year,Cash,1
+1285,24.7,Male,North,41.0,87.47,3.0,1.0,2.9,One year,Card,0
+1286,32.3,Female,East,37.0,111.03,9.0,2.0,3.628232099470029,Month,Cash,1
+1287,41.2,Male,North,40.0,40.25,6.0,3.0,2.9,One year,Transfer,1
+1288,38.6,Male,East,21.0,74.21,1.0,9.0,1.5,Month,Card,1
+1289,34.5,Male,North,27.0,90.14,9.0,6.0,1.2,One year,Card,1
+1290,36.8,Male,East,43.0,115.29,7.0,8.0,4.8,Month,Transfer,0
+1291,35.0,Female,North,26.0,81.01,3.0,2.0,2.1,One year,Transfer,1
+1292,39.8,Male,North,48.0,45.51,5.0,8.0,3.0,One year,Card,0
+1293,46.92588532472384,Male,North,32.0,82.55,3.0,0.0,1.4,Month,Transfer,1
+1294,18.0,Female,North,59.0,52.05,5.0,2.0,2.7,Two year,Card,0
+1295,35.2,Female,East,38.0,117.61,9.0,5.0,4.7,Two year,Cash,0
+1296,40.1,Male,North,18.0,59.97,8.0,0.0,3.0,Month,Transfer,1
+1297,41.6,Male,West,46.0,88.54,2.0,8.0,4.9,Month,Transfer,0
+1298,33.5,Female,East,25.0,22.32,9.0,8.0,2.0,Two year,Transfer,1
+1299,18.0,Female,South,32.0,60.01,4.0,5.0,3.0,Month,Cash,0
+1300,41.9,Female,West,9.0,107.51,7.0,3.0,4.4,Two year,Transfer,1
+1301,58.7,Female,East,8.0,81.02,7.0,0.0,2.8,One year,Cash,1
+1302,19.6,Male,East,34.0,64.39,4.0,6.0,2.1,One year,Transfer,1
+1303,48.4,Female,North,12.0,113.59,4.0,5.0,4.4,Month,Cash,0
+1304,34.1,Male,East,59.0,105.4,4.0,7.0,2.6,One year,Card,0
+1305,37.3,Male,East,51.0,52.22,8.0,6.0,3.1,Month,Card,0
+1306,25.4,Female,West,42.0,74.45,3.0,1.0,4.9,One year,Transfer,0
+1307,34.0,Female,South,44.0,68.98,2.0,1.0,1.7,One year,Cash,0
+1308,91.85799965978099,Male,East,36.0,83.22,3.0,7.0,2.2,Month,Cash,1
+1309,34.88728176014096,Male,South,4.0,53.41,1.0,1.0,1.1,One year,Cash,1
+1310,58.8,Female,North,24.0,44.42,3.0,4.0,2.6,One year,Cash,1
+1311,52.1,Male,North,30.0,111.27,1.0,2.0,1.8,Two year,Transfer,1
+1312,43.3,Female,West,55.0,112.39,0.0,7.0,3.7,Month,Transfer,1
+1313,58.9,Male,East,13.0,104.33,7.0,9.0,1.7,Two year,Cash,1
+1314,43.3,Female,South,30.0,117.82,0.0,4.0,3.7,Two year,Transfer,1
+1315,47.9,Male,East,21.0,94.5,5.0,0.0,2.1,Two year,Card,1
+1316,46.69183618103149,Male,North,8.0,96.47,7.0,8.0,2.4,Two year,Card,1
+1317,36.5199387740063,Male,North,23.0,96.26,7.0,1.0,2.4,One year,Cash,1
+1318,29.6,Female,East,22.0,68.06,4.0,5.0,3.9,Two year,Card,1
+1319,49.9,Female,East,5.0,65.65,1.0,9.0,2.9,Two year,Card,1
+1320,23.9,Female,West,4.0,44.02,9.0,7.0,2.4,One year,Cash,1
+1321,47.4,Female,West,21.0,84.48,8.0,0.0,4.4,Month,Card,0
+1322,35.7,Male,South,12.0,48.93,6.0,8.0,3.3,One year,Card,1
+1323,52.1,Female,West,33.0,45.78,0.0,1.0,1.9,Two year,Cash,1
+1324,47.0,Female,South,2.0,78.6,0.0,7.0,4.6,Two year,Transfer,1
+1325,59.8,Female,West,18.0,61.0,3.0,6.0,2.4,One year,Cash,0
+1326,46.8,Female,North,27.0,41.89,1.0,2.0,1.2,Month,Transfer,1
+1327,19.1,Female,North,57.0,101.61,8.0,4.0,3.0,Two year,Card,0
+1328,37.2,Female,North,38.0,106.06,2.0,1.0,1.5,Month,Card,0
+1329,23.9,Female,West,52.0,36.77,2.0,9.0,2.0,Month,Transfer,0
+1330,31.8,Male,North,21.0,20.75,9.0,2.0,4.0,One year,Card,1
+1331,56.1,Female,West,27.0,53.61,8.0,3.0,1.5,Two year,Transfer,1
+1332,45.7,Male,East,25.0,99.75,2.0,5.0,4.2,Month,Transfer,0
+1333,39.22590592564865,Female,North,53.0,103.92,3.0,6.0,4.7,One year,Transfer,0
+1334,25.8,Male,West,57.0,33.83,5.0,8.0,3.4,Month,Cash,1
+1335,38.4,Female,North,57.0,97.43,6.0,5.0,3.8,One year,Transfer,1
+1336,23.4,Male,North,45.0,31.57,9.0,5.0,3.9,Month,Transfer,0
+1337,34.89016316929686,Female,East,30.0,59.01,8.0,8.0,5.0,One year,Transfer,0
+1338,41.7,Male,South,32.0,119.86,9.0,3.0,2.4,One year,Transfer,1
+1339,51.9,Male,South,58.0,39.26,0.0,8.0,1.7,Month,Cash,1
+1340,45.3,Female,North,17.0,35.4,2.0,7.0,3.1,Month,Card,0
+1341,18.0,Female,East,21.0,62.28,5.0,9.0,3.1,Two year,Card,0
+1342,41.7,Male,North,53.0,81.97,0.0,9.0,1.7,Month,Transfer,1
+1343,38.9,Male,North,23.0,113.29,3.0,7.0,3.5,Month,Transfer,0
+1344,43.0,Female,East,14.0,118.08,1.0,2.0,1.1,Month,Card,1
+1345,57.4,Female,South,34.0,26.96,9.0,2.0,4.7,Two year,Cash,0
+1346,18.0,Male,East,20.0,33.8,0.0,7.0,2.1,One year,Transfer,1
+1347,30.9,Female,North,53.0,99.07,1.0,2.0,1.2,Month,Card,0
+1348,44.232951230865524,Male,East,54.0,47.06,1.0,6.0,1.4,Two year,Cash,0
+1349,19.0,Female,West,19.0,108.48,1.0,2.0,2.0,Month,Cash,0
+1350,55.7,Male,South,32.0,86.35,5.0,5.0,2.1,One year,Cash,0
+1351,42.4,Male,South,59.0,31.18,3.0,7.0,1.1,Month,Card,0
+1352,48.2,Male,East,44.0,103.25,9.0,1.0,2.1,Two year,Card,1
+1353,31.1,Female,East,13.0,37.64,2.0,3.0,1.8,Two year,Transfer,0
+1354,47.8,Female,North,35.0,62.35,5.0,7.0,2.5,Two year,Card,1
+1355,50.8,Male,East,37.0,75.22,6.0,4.0,2.5,Month,Transfer,1
+1356,40.8,Female,North,39.0,70.08,6.0,9.0,2.4,Month,Card,1
+1357,40.8,Female,East,2.0,88.62,7.0,0.0,2.3,Two year,Card,1
+1358,41.2,Female,West,18.0,85.27,2.0,7.0,1.4,Two year,Transfer,1
+1359,27.6,Female,East,51.0,119.2,5.0,8.0,1.1,Month,Cash,1
+1360,36.2,Male,West,15.0,119.94,8.0,9.0,1.8,Two year,Cash,1
+1361,34.577011471265344,Male,South,18.0,71.65,8.0,5.0,4.0,Two year,Card,1
+1362,42.6,Female,West,20.0,29.52,6.0,9.0,5.0,One year,Cash,0
+1363,50.0,Male,West,11.0,92.78,6.0,3.0,4.7,One year,Transfer,0
+1364,25.3,Male,West,10.0,117.67,8.0,3.0,3.0,Month,Transfer,1
+1365,36.5,Male,East,21.0,51.83,6.0,3.0,3.1,Month,Cash,1
+1366,55.8,Female,East,52.0,66.12,9.0,6.0,2.3,Month,Cash,1
+1367,29.1,Female,East,1.0,62.48,1.0,6.0,4.1,Month,Transfer,1
+1368,28.1,Female,West,17.0,25.14,3.0,4.0,4.1,Two year,Card,0
+1369,40.4,Male,West,4.0,87.23,1.0,0.0,4.4,One year,Card,1
+1370,48.1,Male,South,34.0,55.33,0.0,9.0,4.6,Two year,Card,0
+1371,29.4556173953901,Female,North,15.0,98.75,4.0,2.0,2.7,Month,Transfer,1
+1372,53.9,Male,North,47.0,103.21,2.0,0.0,4.1,Two year,Card,0
+1373,48.3,Female,North,35.0,102.12,4.0,5.0,4.2,Month,Card,0
+1374,48.1,Male,North,47.0,61.67,4.0,4.0,2.2,Two year,Cash,1
+1375,44.6,Male,North,38.0,52.15,6.0,6.0,4.7,Month,Cash,0
+1376,65.9,Male,North,26.0,94.88,9.0,8.0,1.4,Month,Transfer,1
+1377,35.5,Female,West,51.0,100.14,8.0,0.0,5.0,Month,Cash,0
+1378,18.0,Female,North,29.0,69.13,3.0,7.0,4.1,Two year,Cash,0
+1379,57.3,Male,East,57.0,109.3,3.0,5.0,1.4,Month,Cash,0
+1380,32.5,Female,South,59.0,34.39,7.0,7.0,3.6,One year,Cash,0
+1381,39.3,Female,North,35.0,107.91,1.0,6.0,1.1,One year,Card,1
+1382,42.07875635713897,Female,East,40.0,29.61,5.0,3.0,4.1,Two year,Cash,0
+1383,18.8,Female,West,16.0,35.35,4.0,6.0,4.2,One year,Cash,0
+1384,23.0,Male,West,49.0,73.38,1.0,9.0,3.4,Month,Cash,0
+1385,70.83323609700463,Female,West,40.0,26.75,6.0,4.0,4.4,One year,Transfer,0
+1386,28.5,Female,East,54.0,25.28,3.0,8.0,1.4,Month,Cash,1
+1387,43.3,Male,East,16.0,20.05,1.0,7.0,2.1,Two year,Cash,1
+1388,44.3,Male,North,47.0,63.63,6.0,3.0,2.7,Two year,Cash,1
+1389,41.3,Female,West,28.0,97.46,1.0,2.0,1.2,Month,Cash,1
+1390,21.0,Female,East,11.0,23.48,6.0,7.0,2.8,Two year,Cash,0
+1391,18.0,Male,South,11.0,85.23,1.0,3.0,2.1,Month,Transfer,1
+1392,38.7,Male,South,34.0,102.31,4.0,3.0,2.6,One year,Cash,1
+1393,32.3,Female,East,19.0,36.8,8.0,2.0,2.7,One year,Transfer,1
+1394,43.5,Male,North,7.0,34.69,2.0,6.0,4.5,Month,Cash,1
+1395,46.4,Male,West,26.0,106.08,7.0,2.0,2.1,One year,Cash,1
+1396,39.7,Female,South,39.0,102.31,7.0,6.0,4.6,Month,Cash,0
+1397,47.1,Female,North,19.0,73.89,9.0,5.0,2.7,Two year,Transfer,1
+1398,40.8,Male,South,57.0,101.92,1.0,8.0,2.3,Two year,Transfer,0
+1399,44.4,Male,West,46.0,29.28,7.0,9.0,3.0,Two year,Card,0
+1400,29.5,Male,South,31.0,59.45,9.0,0.0,2.7,One year,Transfer,1
+1401,35.8,Male,East,56.0,93.78,7.0,4.0,2.0,One year,Transfer,1
+1402,40.4,Female,West,26.0,45.75,1.0,2.0,3.0,One year,Transfer,1
+1403,47.8,Male,North,9.0,95.23,8.0,9.0,1.6,Two year,Cash,1
+1404,35.414463324496005,Male,West,3.0,70.42,1.0,7.0,2.4,One year,Cash,1
+1405,44.3,Male,South,56.0,95.03,5.0,3.0,3.3,One year,Card,0
+1406,34.8,Female,East,57.0,66.47,4.0,5.0,2.7,One year,Transfer,0
+1407,36.6,Female,North,44.0,56.79,5.0,6.0,4.3,One year,Cash,0
+1408,48.0,Female,North,7.0,41.92,5.0,4.0,2.0,One year,Cash,1
+1409,18.0,Male,West,18.0,40.84,0.0,4.0,4.9,Two year,Cash,0
+1410,22.4,Female,West,3.0,95.15,5.0,0.0,4.1,One year,Cash,0
+1411,20.2,Male,West,4.0,31.89,9.0,4.0,4.9,Two year,Cash,0
+1412,18.0,Female,East,15.0,28.6,4.0,3.0,4.4,Two year,Cash,1
+1413,29.9,Female,South,34.0,37.63,2.0,8.0,1.6,One year,Transfer,1
+1414,47.0,Female,North,4.0,37.53,9.0,8.0,3.5497361793819855,Two year,Card,1
+1415,34.6,Male,South,59.0,102.31,0.0,7.0,1.7,Month,Transfer,0
+1416,40.4,Female,East,27.0,59.85,4.0,0.0,4.3,Two year,Cash,1
+1417,51.1,Female,South,16.0,119.04,5.0,5.0,3.3,Month,Transfer,1
+1418,53.9,Female,South,31.0,33.72,4.0,3.0,2.1,One year,Cash,1
+1419,37.2,Male,North,47.0,85.35,9.0,4.0,4.7,Month,Transfer,0
+1420,54.2,Female,South,19.0,64.87,4.0,9.0,1.5,One year,Cash,0
+1421,39.1,Female,North,3.0,59.29,9.0,8.0,3.3,One year,Card,1
+1422,28.0,Male,North,4.0,107.51,0.0,0.0,3.9,Two year,Cash,0
+1423,30.9,Female,North,51.0,117.56,7.0,3.0,2.172261068270499,Month,Transfer,0
+1424,20.2,Male,East,7.0,107.29,5.0,7.0,3.4,Two year,Transfer,0
+1425,27.3,Female,South,38.0,39.23,2.0,5.0,4.3,Two year,Transfer,1
+1426,33.7,Female,North,23.0,42.08,2.0,2.0,1.3,One year,Transfer,1
+1427,47.6,Male,East,46.0,85.61,7.0,5.0,3.0,One year,Cash,1
+1428,58.6,Male,North,4.0,48.91,6.0,8.0,2.0,Two year,Card,1
+1429,21.4,Female,North,53.0,93.47,6.0,2.0,3.7,Month,Cash,0
+1430,42.7,Male,North,42.0,76.64,0.0,7.0,1.5,Two year,Cash,1
+1431,25.5,Male,South,27.0,75.09,5.0,7.0,4.7,Month,Card,0
+1432,43.7,Male,West,13.0,102.85,9.0,8.0,4.6,Two year,Card,1
+1433,36.4,Female,North,58.0,91.05,0.0,2.0,1.7,Month,Transfer,0
+1434,18.0,Female,South,18.0,22.66,4.0,2.0,2.3,Two year,Cash,1
+1435,49.1,Female,North,29.0,24.95,4.0,5.0,3.4,Two year,Cash,1
+1436,30.7,Male,East,24.0,80.16,8.0,5.0,3.9,Month,Cash,0
+1437,31.6,Male,East,14.0,68.62,2.0,4.0,2.8,One year,Cash,1
+1438,25.2,Female,South,25.0,46.02,4.0,7.0,1.6,One year,Transfer,1
+1439,30.1,Female,East,9.0,61.87,7.0,7.0,1.4,Month,Transfer,1
+1440,43.1,Female,West,1.0,95.79,0.0,2.0,5.0,One year,Card,0
+1441,35.7,Female,West,18.0,102.66,8.0,7.0,2.8,Two year,Transfer,1
+1442,41.9,Female,East,7.0,76.12,8.0,2.0,4.5,Month,Card,1
+1443,42.3,Male,East,25.0,58.54,7.0,4.0,2.9,Two year,Card,1
+1444,53.8,Male,West,51.0,47.07,6.0,0.0,4.7,Two year,Cash,0
+1445,40.08539318687466,Female,West,10.0,72.19,7.0,3.0,1.4,One year,Cash,1
+1446,20.3,Female,South,1.0,51.47,7.0,9.0,1.5,One year,Transfer,1
+1447,50.8,Female,North,7.0,76.41,9.0,4.0,4.7,One year,Card,0
+1448,34.0,Female,North,30.0,87.67,4.0,7.0,4.8,Month,Card,1
+1449,51.4,Male,West,17.0,26.61,4.0,1.0,2.3,One year,Card,1
+1450,42.6,Male,East,29.0,20.11,6.0,6.0,2.4,Two year,Cash,1
+1451,36.4,Female,South,2.0,41.23,1.0,3.0,2.8,Month,Card,1
+1452,27.41757146202205,Female,South,20.0,109.45,8.0,7.0,2.7,Two year,Card,1
+1453,61.4,Male,South,25.0,84.63,7.0,9.0,1.8,Two year,Cash,1
+1454,62.9,Male,West,26.0,37.2,6.0,5.0,4.6,Two year,Cash,1
+1455,38.823353911957504,Female,East,33.0,109.03,3.0,1.0,2.0,One year,Cash,1
+1456,39.9,Female,West,47.0,67.0,3.0,4.0,3.8,One year,Card,0
+1457,50.9,Female,South,28.0,67.61,4.0,1.0,1.3,One year,Transfer,1
+1458,27.9,Male,South,50.0,113.55,6.0,4.0,1.2,Two year,Card,1
+1459,45.8216205966994,Female,North,32.0,25.95,7.0,0.0,3.6,Two year,Cash,0
+1460,33.81235814136855,Female,West,16.0,41.52,6.0,6.0,2.4,One year,Card,1
+1461,41.8,Female,East,14.0,78.58,9.0,3.0,3.6,Two year,Cash,1
+1462,28.0,Female,East,20.0,39.55,9.0,2.0,1.4,One year,Transfer,1
+1463,18.9,Male,South,36.0,87.95,7.0,0.0,4.8,One year,Cash,0
+1464,18.0,Male,South,15.0,41.41,3.0,8.0,3.2261694327225174,Month,Transfer,1
+1465,24.6,Male,West,54.0,29.92,5.0,8.0,4.5,One year,Card,0
+1466,32.5,Female,South,29.0,40.7,4.0,8.0,1.5,One year,Cash,1
+1467,34.5,Male,East,51.0,62.27,6.0,0.0,2.3,Two year,Transfer,1
+1468,61.2,Male,North,41.0,37.61,8.0,3.0,2.5,Two year,Transfer,0
+1469,51.3,Male,South,20.0,33.47,3.0,9.0,3.1,Month,Transfer,1
+1470,26.5,Female,West,14.0,106.03,5.0,5.0,2.2,One year,Cash,1
+1471,42.2,Female,North,44.0,52.04,0.0,1.0,1.2,Two year,Transfer,0
+1472,33.1,Female,North,20.0,56.08,7.0,1.0,2.5,One year,Card,1
+1473,30.697600321291517,Female,West,15.0,25.53,4.0,2.0,2.0,One year,Card,1
+1474,40.2,Male,South,55.0,55.74,4.0,9.0,2.5,Two year,Card,1
+1475,45.4,Male,South,20.0,46.48,5.0,4.0,1.8,One year,Card,1
+1476,33.9,Male,East,3.0,81.05,2.0,9.0,2.0,Two year,Cash,1
+1477,50.8,Female,North,30.0,40.54,5.0,6.0,3.5,One year,Card,1
+1478,24.3,Female,North,28.0,108.84,7.0,2.0,2.6,Month,Card,1
+1479,38.1,Male,North,51.0,112.97,3.0,8.0,3.2029897028052723,One year,Card,1
+1480,69.2,Male,North,42.0,29.98,1.0,3.0,3.1,Two year,Cash,1
+1481,40.7,Male,North,12.0,30.74,3.0,8.0,4.1,One year,Transfer,0
+1482,55.2,Female,East,9.0,31.53,1.0,1.0,2.5,Two year,Card,1
+1483,39.1,Male,South,36.0,81.96,3.0,5.0,3.4,Month,Transfer,1
+1484,45.0,Female,North,3.0,32.2,6.0,2.0,4.9,Two year,Card,0
+1485,37.3,Male,North,19.0,105.24,1.0,1.0,3.1,Month,Card,0
+1486,36.0,Female,South,9.0,95.43,7.0,0.0,4.6,Two year,Card,0
+1487,28.6,Female,West,2.0,101.98,2.0,1.0,4.2,One year,Cash,0
+1488,43.2,Male,South,55.0,72.61,8.0,1.0,1.2,Two year,Card,1
+1489,27.8,Female,North,6.0,119.67,7.0,3.0,3.1144590968182992,Two year,Transfer,1
+1490,46.0,Female,North,1.0,24.42,2.0,0.0,3.8,Two year,Cash,1
+1491,51.0,Female,South,56.0,60.13,5.0,0.0,4.9,Two year,Cash,0
+1492,42.4,Female,North,25.0,52.39,1.0,9.0,2.8,One year,Transfer,1
+1493,34.6,Male,West,49.0,114.86,0.0,0.0,1.4,Two year,Card,1
+1494,43.4,Male,West,2.0,77.69,9.0,0.0,3.2,Month,Transfer,1
+1495,34.3,Female,South,10.0,100.62,8.0,0.0,1.5,Month,Card,1
+1496,43.120667491023646,Male,West,7.0,37.03,1.0,1.0,4.0,One year,Transfer,1
+1497,18.0,Male,South,42.0,117.86,2.0,5.0,3.0,Two year,Card,0
+1498,34.0,Male,North,37.0,69.86,1.0,8.0,3.9,Two year,Transfer,0
+1499,18.0,Male,West,29.0,69.37,3.0,7.0,4.5,One year,Transfer,0
+1500,20.1,Male,West,15.0,117.09,2.0,5.0,3.5,One year,Cash,1

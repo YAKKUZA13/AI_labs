@@ -1,0 +1,16 @@
+{
+  "model_id": "alexneakameni/language_detection",
+  "task": "language detection",
+  "total_sentences": 10,
+  "correct_predictions": 10,
+  "accuracy": 1.0,
+  "model_load_seconds": 1.9461,
+  "inference_seconds": 0.0447,
+  "supported_test_languages": {
+    "ru": "Русский",
+    "en": "Английский",
+    "de": "Немецкий",
+    "fr": "Французский",
+    "zh": "Китайский"
+  }
+}
