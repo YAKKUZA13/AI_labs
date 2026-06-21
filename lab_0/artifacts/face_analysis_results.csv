@@ -1,0 +1,11 @@
+id,image_file,expected_gender,expected_age_group,predicted_gender,predicted_age_group,gender_score,age_score,is_gender_correct,is_age_correct
+1,face_01.jpg,Male,3-9,Male,3-9,0.990458,0.745431,True,True
+2,face_02.jpg,Female,50-59,Female,30-39,0.987034,0.545441,True,False
+3,face_03.jpg,Male,30-39,Male,40-49,0.992211,0.571297,True,False
+4,face_04.jpg,Female,20-29,Female,20-29,0.992237,0.743025,True,True
+5,face_05.jpg,Female,more than 70,Female,60-69,0.950755,0.400221,True,False
+6,face_06.jpg,Female,40-49,Female,40-49,0.992198,0.502692,True,True
+7,face_07.jpg,Female,10-19,Female,20-29,0.993056,0.623305,True,False
+8,face_08.jpg,Male,60-69,Male,50-59,0.992161,0.489314,True,False
+9,face_09.jpg,Male,0-2,Male,0-2,0.934501,0.786756,True,True
+10,face_10.jpg,Male,20-29,Male,20-29,0.990226,0.533798,True,True

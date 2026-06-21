@@ -1,0 +1,11 @@
+id,image_file,expected_gender,expected_age_group
+1,face_01.jpg,Male,3-9
+2,face_02.jpg,Female,50-59
+3,face_03.jpg,Male,30-39
+4,face_04.jpg,Female,20-29
+5,face_05.jpg,Female,more than 70
+6,face_06.jpg,Female,40-49
+7,face_07.jpg,Female,10-19
+8,face_08.jpg,Male,60-69
+9,face_09.jpg,Male,0-2
+10,face_10.jpg,Male,20-29

@@ -1,0 +1,14 @@
+{
+  "gender_model_id": "dima806/fairface_gender_image_detection",
+  "age_model_id": "dima806/fairface_age_image_detection",
+  "task": "face gender and age group detection",
+  "total_photos": 10,
+  "gender_correct_predictions": 10,
+  "age_correct_predictions": 5,
+  "gender_accuracy": 1.0,
+  "age_accuracy": 0.5,
+  "model_load_seconds": 11.16,
+  "inference_seconds": 18.9568,
+  "test_manifest": "test_manifest.csv",
+  "test_images_dir": "test_images"
+}
